@@ -2,7 +2,6 @@
 using Flights.Application.Abstractions.Repositories;
 using Flights.Application.Common;
 using Flights.Application.Flights.Dtos;
-using Flights.Domain.Flights;
 using MediatR;
 
 namespace Flights.Application.Flights.Queries
